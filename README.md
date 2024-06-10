@@ -3,20 +3,12 @@ IN THIS PROJECT I USED PURE TAILWIND CSS WITH HTML. THIS WEBSITE IS FULLY RESPON
 
 
 
-![Screenshot (5)](https://github.com/Manthangarg100/Manthan-s-ETERNA-STONE-WEBSITE/assets/171335390/e92c87c0-e23c-4328-b496-687d800e1fa5)  
+![Screenshot (7)](https://github.com/Manthangarg100/Manthan-s-ETERNA-STONE-WEBSITE/assets/171335390/cbf6629f-ab26-4b51-b59c-87700b047e80)
 
 
+![Screenshot (5)](https://github.com/Manthangarg100/Manthan-s-ETERNA-STONE-WEBSITE/assets/171335390/91a9fa52-8435-4b32-82c5-ff799d852b2e)
+
+![Screenshot (10)](https://github.com/Manthangarg100/Manthan-s-ETERNA-STONE-WEBSITE/assets/171335390/42ae69e5-a6c0-49c4-a05e-56d9dfbfcb83)
 
 
-![Screenshot (7)](https://github.com/Manthangarg100/Manthan-s-ETERNA-STONE-WEBSITE/assets/171335390/d25ea5a3-de3d-4d18-b039-f99d985adf38)   
-
-
-
-
-![Screenshot (8)](https://github.com/Manthangarg100/Manthan-s-ETERNA-STONE-WEBSITE/assets/171335390/2fabacf3-c2f3-450f-96d2-5f1ed5ba3423)  
-
-
-
-
-
-![Screenshot (10)](https://github.com/Manthangarg100/Manthan-s-ETERNA-STONE-WEBSITE/assets/171335390/27e22783-4fe8-4dbb-aba4-d473db50b88c)
+![Screenshot (8)](https://github.com/Manthangarg100/Manthan-s-ETERNA-STONE-WEBSITE/assets/171335390/fc20218f-e2ca-4809-b0b3-16343425e94e)
